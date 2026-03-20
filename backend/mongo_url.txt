@@ -1,0 +1,1 @@
+mongodb://ac-qyppghr-shard-00-02.y92vamr.mongodb.net:27017,ac-qyppghr-shard-00-01.y92vamr.mongodb.net:27017,ac-qyppghr-shard-00-00.y92vamr.mongodb.net:27017/?authSource=admin&replicaSet=atlas-12l2up-shard-0
